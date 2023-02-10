@@ -1,4 +1,4 @@
-Hi 👋 My name is Fidel Deaquino
+Hi 👋🏼 My name is Fidel Deaquino
 ===============================
 
 I'm a junior Full-Stack Web Developer...
