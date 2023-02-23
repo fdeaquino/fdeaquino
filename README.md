@@ -9,7 +9,7 @@ with a strong focus on web responsiveness and user experience. With a background
 * 🌍  I'm based in Houston, Texas
 * 🖥️  See my portfolio at [fdeaquino.github.io/react-portfolio/](http://fdeaquino.github.io/react-portfolio/)
 * ✉️  You can contact me at [fidel.webdev@gmail.com](mailto:fidel.webdev@gmail.com)
-* 🚀  I'm currently working on [BrickStreet](http://brickstreet.herokuapp.com/)
+* 🚀  I'm currently working on a [School Board campaign website for Crystal Davila](https://github.com/fdeaquino/crystaldavila)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on small business websites, e-commerce websites, and landing pages
 * ⚡  I recently graduated from Rice University's Full Stack Web Development Bootcamp
