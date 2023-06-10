@@ -1,7 +1,7 @@
 Hi 👋🏼 My name is Fidel Deaquino
 ===============================
 
-I'm a junior Full-Stack Web Developer...
+I'm a Full-Stack Web Developer...
 ---------------------------------
 
 with a strong focus on web responsiveness and user experience. With a background in teaching and management, I bring strong interpersonal skills to the table and am always eager to take on new challenges. I'm looking forward to working in environments that foster creative expression and offer mentorship. When I'm not coding, you can find me enjoying the great outdoors through activities like hiking, biking and gardening.
@@ -9,8 +9,8 @@ with a strong focus on web responsiveness and user experience. With a background
 * 🌍  I'm based in Houston, Texas
 * 🖥️  See my portfolio at [fdeaquino.github.io/react-portfolio/](http://fdeaquino.github.io/react-portfolio/)
 * ✉️  You can contact me at [fidel.webdev@gmail.com](mailto:fidel.webdev@gmail.com)
-* 🚀  I'm currently working on a [School Board campaign website for Crystal Davila](https://github.com/fdeaquino/crystaldavila)
-* 🧠  I'm learning React
+* 🚀  I'm currently working on [Parques y Recuerdos](fdeaquino.github.io/parques-y-recuerdos/)
+* 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on small business websites, e-commerce websites, and landing pages
 * ⚡  I recently graduated from Rice University's Full Stack Web Development Bootcamp
 
