@@ -7,7 +7,7 @@ I'm a Full-Stack Web Developer...
 with a strong focus on web responsiveness and user experience. With a background in teaching and management, I bring strong interpersonal skills to the table and am always eager to take on new challenges. I'm looking forward to working in environments that foster creative expression and offer mentorship. When I'm not coding, you can find me enjoying the great outdoors through activities like hiking, biking and gardening.
 
 * 🌍  I'm based in Houston, Texas
-* 🖥️  See my portfolio at [fdeaquino.github.io/react-portfolio/](http://fdeaquino.github.io/react-portfolio/)
+* 🖥️  See my portfolio at [fidel-deaquino.com](http://fidel-deaquino.com)
 * ✉️  You can contact me at [fidel.webdev@gmail.com](mailto:fidel.webdev@gmail.com)
 * 🚀  I'm currently working on a Hispanic Heritage Month website for Out In Tech - Houston
 * 🧠  I'm learning Java
