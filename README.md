@@ -9,7 +9,7 @@ with a strong focus on web responsiveness and user experience. With a background
 * 🌍  I'm based in Houston, Texas
 * 🖥️  See my portfolio at [fdeaquino.github.io/react-portfolio/](http://fdeaquino.github.io/react-portfolio/)
 * ✉️  You can contact me at [fidel.webdev@gmail.com](mailto:fidel.webdev@gmail.com)
-* 🚀  I'm currently working on [Parques y Recuerdos](https://github.com/fdeaquino/parques-y-recuerdos)
+* 🚀  I'm currently working on a Hispanic Heritage Month website for Out In Tech - Houston
 * 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on small business websites, e-commerce websites, and landing pages
 * ⚡  I recently graduated from Rice University's Full Stack Web Development Bootcamp
