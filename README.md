@@ -31,4 +31,8 @@ with a strong focus on web responsiveness and user experience. With a background
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.formspree.com/" target="_blank" rel="noreferrer"><img src="https://formspree.io/static/img/favicon.ico" width="36" height="36" alt="Formspree" /></a>
+<a href="https://www.reactrouter.com/" target="_blank" rel="noreferrer"><img src="https://reactrouter.com/_brand/react-router-mark-color.svg" width="36" height="36" alt="React Router" /></a>
+<a href="https://www.analytics.google.com/" target="_blank" rel="noreferrer"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" width="36" height="36" alt="React Router" /></a>
+<a href="https://www.mapbox.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/600935?s=200&v=4" width="36" height="36" alt="Mapbox" /></a>
 </p>
